@@ -1,0 +1,1 @@
+const memoryCards = document.querySelectorAll('.memory-card')
